@@ -1,0 +1,12 @@
+.tools/
+target/
+config/db.local.properties
+*.log
+.idea/
+.vscode/
+.env
+.env.*
+!.env.example
+config/*.local.properties
+*.pem
+*.key
